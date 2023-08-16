@@ -18,4 +18,4 @@ jobs:
           server: ftp.berrydahenterprises.co.ke
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /http://berrydahenterprises.co.ke/
+          server-dir: /http://berrydahenterprises.co.ke/public_html
